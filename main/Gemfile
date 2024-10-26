@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'rspec'          
+gem 'minitest'       
+gem 'faker'          
+gem 'simplecov'      
+gem 'bundler'        
+
+group :development, :test do
+  gem 'rubocop' 
+end

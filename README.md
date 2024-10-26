@@ -17,3 +17,9 @@ You need to make a Dockerfile. It must fulfil the following conditions.
 - All installed versions of Ruby must be able to run a Ruby application with a Gemfile.
 
 Also provide a script/example projects/way to verify that your solution satisfies all described points. It should contain a step-by-step instructions on how to run and verify your solution.
+
+### How to build
+
+Open a terminal in root folder of project and run the following commands
+
+- 
